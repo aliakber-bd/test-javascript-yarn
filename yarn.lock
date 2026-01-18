@@ -106,9 +106,9 @@ etag@~1.8.1:
   resolved "https://registry.yarnpkg.com/etag/-/etag-1.8.1.tgz#41ae2eeb65efa62268aebfea83ac7d79299b0887"
   integrity sha512-aIL5Fx7mawVa300al2BnEE4iNvo1qETxLrPI/o05L7z6go7fCw1J6EQmbK4FmJ2AS7kgVF/KEZWufBfdClMcPg==
 
-express@4.16.0:
+express@4.22.1:
   version "4.16.0"
-  resolved "https://registry.yarnpkg.com/express/-/express-4.16.0.tgz#b519638e4eb58e7178c81b498ef22f798cb2e255"
+  resolved "https://registry.yarnpkg.com/express/-/express-4.22.1.tgz#b519638e4eb58e7178c81b498ef22f798cb2e255"
   integrity sha512-mBhv3wUcA4u0UyVlxjwJYmvdrDu1eBj9w9/8go1WCRqMDH2Rs0i+GFoWutMHtYlEkfjz9C4aQeEleWxT//ZYKg==
   dependencies:
     accepts "~1.3.4"
